@@ -1,0 +1,14 @@
+dropped,added
+,tenure_days
+,days_since_modif
+,cons_ratio_last_vs_year
+,margin_diff
+,avg_offpeak_price_var
+,std_offpeak_price_var
+,min_offpeak_price_var
+,max_offpeak_price_var
+,spread_offpeak_var
+,offpeak_diff_dec_january_energy
+,offpeak_diff_dec_january_power
+,estimated_annual_bill
+,price_sensitivity_proxy
